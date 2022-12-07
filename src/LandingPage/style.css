@@ -8,10 +8,6 @@
     color: #fff;
 }
 
-header {
-    height: 10vh;
-}
-
 .top {
     display: flex;
     align-items: center;
